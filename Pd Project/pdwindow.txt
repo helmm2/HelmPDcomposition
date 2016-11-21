@@ -1,0 +1,36 @@
+Pd 0.47.1. on win32
+Tcl/Tk 8.5.10
+------------------------------------------------------------------------------
+{} 3 {'pd-gui' connecting to 'pd' on localhost 5400 ...
+} {} 4 {------------------ done with main ----------------------
+} {} 4 {Default font: DejaVu Sans Mono
+} {} 3 {Loading plugin: C:/Program Files (x86)/Pd/tcl/pd_deken.tcl
+} {} 14 {The Pd window filtered 4 lines
+} .x23edef0 1 {soundfiler_read: truncated to 4000000 elements
+} {} 4 {... you might be able to track this down from the Find menu.
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/audio_player.pd
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/audio_player.pd
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/audio_player.pd
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/audio_player.pd
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/audio_player.pd
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/audio_player.pd
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/audio_player.pd
+} {} 1 {can't connect signal outlet to control inlet
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/audio_player.pd
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/audio_player.pd
+} .x23e6830 1 {readsf: start requested with no prior 'open'
+} .x23dac20 1 {writesf: start requested with no prior 'open'
+} .x23dac20 1 {writesf: start requested with no prior 'open'
+} {} 2 {} {} 2 { } {} 2 output~ {} 2 {
+} .x2485e88 1 {... couldn't create
+} {} 2 {} {} 2 { } {} 2 output {} 2 { } {} 2 ~ {} 2 {
+} .x2485e88 1 {... couldn't create
+} .x23dac20 1 {writesf: start requested with no prior 'open'
+} .x23dac20 1 {writesf: start requested with no prior 'open'
+} .x23dac20 1 {writesf: start requested with no prior 'open'
+} .x23dac20 1 {writesf: start requested with no prior 'open'
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/note_player.pd
+} {} 2 {saved to: C:/Users/helmm2/Desktop/PDLAB~1/note_player.pd
+} {} 1 {audio I/O stuck... closing audio
+
+}
